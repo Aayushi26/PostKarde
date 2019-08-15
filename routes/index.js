@@ -88,8 +88,8 @@ router.get('/viewsubcat/:catnm', function(req, res, next) {
 
 router.get('/about', function(req, res, next) {
 	/*
-	var username='abhishek'
-	var password='singh'
+	var username='aayushi'
+	var password='sinha'
 	var key="mishtu-is-amazing"
 	var unm_enc=encryptionhelper.cipher(key,username,'aes256')
 	var pass_enc=encryptionhelper.cipher(key,password,'aes256')
