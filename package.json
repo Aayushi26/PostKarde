@@ -11,7 +11,7 @@
     "ejs": "~2.5.7",
     "encryptionhelper": "0.0.3",
     "express": "~4.16.0",
-    "express-fileupload": "^0.4.0",
+    "express-fileupload": "^1.1.9",
     "express-session": "^1.15.6",
     "http-errors": "~1.6.2",
     "md5": "^2.2.1",
